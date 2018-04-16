@@ -72,5 +72,3 @@ Coded in Borland Delphi 7
 Virtual File System Editor uses the following :  
 • [Ortus Shell Components](http://www.delphicomponents.net/)  
 • [Aesthetica Icon Set version 2.0](http://dryicons.com/)
-
-**Developed by [Extreme Coders](mailto:extremecoders@hotmail.com) © 2014 - 15. All Rights Reserved.**
