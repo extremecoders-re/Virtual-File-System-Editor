@@ -1,7 +1,7 @@
 Virtual File System Editor
 ==========================
 
-A tool to extract embedded files from application virtualizers
+A tool to extract embedded files from application virtualizers. This was originally released exclusively on the tuts4you forum. Made open source on April 16, 2018.
 
 General Information
 -------------------
