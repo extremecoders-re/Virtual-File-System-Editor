@@ -32,7 +32,6 @@ Tests
 
 Virtual File System Editor was tested with the following packers on Windows XP SP3.
 
-*   [BoxedApp Packer 3.2.3.8](http://www.boxedapp.com/)
 *   [Cameyo 2.0.8.32](http://www.cameyo.com/)
 *   [Enigma Protector 4.20.20140508](http://www.enigmaprotector.com/en/about.html)
 *   [Enigma Virtual Box 7.10.20131218](http://www.enigmaprotector.com/en/aboutvb.html)
@@ -49,20 +48,18 @@ Molebox allows to hide specific or all files from directory structure listing. T
 
 For enigma virtual box & enigma protector, the main executable will not be unpacked. The best solution in this case is to use [Static Enigma Virtual Box Unpacker](https://forum.tuts4you.com/topic/35554-static-enigma-virtual-box-unpacker/) by [kao](http://lifeinhex.com/) which not only unpacks the main executable but also embedded registry keys(if any) along with other embedded files.
 
-For boxed app packer the main executable may not be unpacked. In such cases open the packed file in a PE editor, dump _.bxpack_ section and find the main PE within it by searching for MZ signature.
-
 Changelog
 ---------
 
 **v0.3** December 15, 2015  
-• Support for large files via name & server modes  
-• Fixed some bugs
+â€¢ Support for large files via name & server modes  
+â€¢ Fixed some bugs
 
 **v0.2** August 22, 2015  
-• Added run external program feature
+â€¢ Added run external program feature
 
 **v0.1** August 26, 2014  
-• First Public Release
+â€¢ First Public Release
 
 Credits
 -------
@@ -70,5 +67,5 @@ Credits
 Coded in Borland Delphi 7
 
 Virtual File System Editor uses the following :  
-• [Ortus Shell Components](http://www.delphicomponents.net/)  
-• [Aesthetica Icon Set version 2.0](http://dryicons.com/)
+â€¢ [Ortus Shell Components](http://www.delphicomponents.net/)  
+â€¢ [Aesthetica Icon Set version 2.0](http://dryicons.com/)
